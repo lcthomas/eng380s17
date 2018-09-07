@@ -19,7 +19,7 @@ email: lindsaythomas@miami.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This archived site is a migration of an old Wordpress site. Some functionality 
   may be broken. Made with Jekyll using the default Minima theme.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/eng380s17" # the subpath of your site, e.g. /blog
 url: "https://lcthomas.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
